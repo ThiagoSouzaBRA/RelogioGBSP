@@ -1,4 +1,4 @@
 # RelogioGBSP
 Animação Gráfica.
 
-<img src="preview.gif"/>
+<img src="./preview.gif"/>
